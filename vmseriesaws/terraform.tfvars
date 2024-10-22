@@ -1,6 +1,6 @@
 ### GENERAL
 region      = "us-east-1" # Ajustar antes do deploy
-name_prefix = "lab01-"      # Ajustar antes do deploy
+name_prefix = "lab-"      # Ajustar antes do deploy
 
 global_tags = {
   aplicacao  = "vm-series"
